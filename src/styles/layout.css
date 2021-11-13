@@ -1,0 +1,9 @@
+.layout {
+    margin: auto;
+    max-width: 960px;
+    padding: 0 1.1rem 1.45rem;
+}
+
+.logo-image {
+    width: 120px;
+}
